@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">Real time messenger app<a href="https://meow-messenger-m267esjdf-olesia-tomilovas-projects.vercel.app/" ><br>Meow Messenger</a></h4>
+<h4 align="center">Real time messenger app<a href="https://meow-messenger-m267esjdf-olesia-tomilovas-projects.vercel.app/" target="_blank"><br>Meow Messenger</a></h4>
 
 
 ### Built With
